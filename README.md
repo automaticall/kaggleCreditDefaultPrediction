@@ -1,2 +1,2 @@
-# kaggleCreditDefaultPrediction
-Kaggle challenge to Prediction Credit Default 
+# kaggleCreditDefaultPayementPrediction
+Kaggle challenge to predict default credit payement of client
